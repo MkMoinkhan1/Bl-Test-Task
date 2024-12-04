@@ -123,7 +123,7 @@ export default function Dashboard() {
               <div className="flex justify-between items-start mb-4">
                 <div>
                   <h3 className="text-4xl font-bold text-gray-900">{formatNumber(summary.deaths)}</h3>
-                  <p className="text-gray-500">Total Deaths</p>
+                  <p className="text-gray-500">Total Deaths....</p>
                 </div>
                 <span className="text-red-500 bg-red-50 px-2 py-1 rounded-full text-sm">
                   All India
